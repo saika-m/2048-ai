@@ -1,3 +1,5 @@
+*Translate from Java using GPT-4
+
 AI for the [2048 game](http://gabrielecirulli.github.io/2048/). This uses *expectimax optimization*. Read more about the algorithm on the [StackOverflow answer](https://stackoverflow.com/a/22498940/1204143).
 
 ## Building
